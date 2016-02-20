@@ -1,0 +1,1 @@
+This is a series of projects such as various SDL Tridion scripts, applications, automations written to add functionality for SDL Tridion CMS
